@@ -1,4 +1,4 @@
-[Bike Sharing Data Dashboard Streamlit App]([https://dashboard-bike-share-nik.streamlit.app/])
+[Bike Sharing Data Dashboard Streamlit App](https://dashboard-bike-share-nik.streamlit.app/)
 
 ## Overview
 Proyek ini merupakan proyek analisis dan visualisasi data yang berfokus pada data publik Bike Sharing.
