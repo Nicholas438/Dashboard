@@ -1,4 +1,4 @@
-[Bike Sharing Data Dashboard Streamlit App]([https://dinarna-submission-analisis-data-dengan-python-dashboard-2ao1um.streamlit.app/](https://dashboard-bike-share-nik.streamlit.app/)https://dashboard-bike-share-nik.streamlit.app/)
+[Bike Sharing Data Dashboard Streamlit App]([https://dashboard-bike-share-nik.streamlit.app/])
 
 ## Overview
 Proyek ini merupakan proyek analisis dan visualisasi data yang berfokus pada data publik Bike Sharing.
