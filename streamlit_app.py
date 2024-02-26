@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-import datetime
 sns.set_theme(style='dark')
 
 df = pd.read_csv("data.csv")
